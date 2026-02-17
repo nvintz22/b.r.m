@@ -332,7 +332,7 @@ const route0 = /* @__PURE__ */ Object.freeze(/* @__PURE__ */ Object.defineProper
   default: root,
   links
 }, Symbol.toStringTag, { value: "Module" }));
-const Ship = "/assets/sunset-ship-CrxA2l8E.jpg";
+const Ship = "/b.r.m/assets/sunset-ship-CrxA2l8E.jpg";
 function meta$7({}) {
   return [{
     title: "BRM - Chartering and Maritime Services"
@@ -1526,18 +1526,18 @@ function ServiceModal(props) {
     }
   );
 }
-const MiningImg = "/assets/mining1-Bq1Zg1LQ.png";
-const MiningImg2 = "/assets/mining2-C1DXqMR8.png";
-const Sand = "/assets/sand-D0lnHCa6.png";
-const Gravel = "/assets/gravel-C87ThOiD.png";
-const Cargo = "/assets/cargo-H-kMhvW_.png";
-const Shipping = "/assets/shipping-Cw3hP7kS.png";
-const Repair1 = "/assets/repair1-9tpvySL8.png";
-const Repair2 = "/assets/repair2-3DiG9Ejm.png";
-const Support1 = "/assets/support1-Dm0H6_h3.png";
-const Support2 = "/assets/support2-BDtTJnTX.png";
-const Support3 = "/assets/support3-B_xwXduH.png";
-const Support4 = "/assets/support4-DQlzTIkf.png";
+const MiningImg = "/b.r.m/assets/mining1-Bq1Zg1LQ.png";
+const MiningImg2 = "/b.r.m/assets/mining2-C1DXqMR8.png";
+const Sand = "/b.r.m/assets/sand-D0lnHCa6.png";
+const Gravel = "/b.r.m/assets/gravel-C87ThOiD.png";
+const Cargo = "/b.r.m/assets/cargo-H-kMhvW_.png";
+const Shipping = "/b.r.m/assets/shipping-Cw3hP7kS.png";
+const Repair1 = "/b.r.m/assets/repair1-9tpvySL8.png";
+const Repair2 = "/b.r.m/assets/repair2-3DiG9Ejm.png";
+const Support1 = "/b.r.m/assets/support1-Dm0H6_h3.png";
+const Support2 = "/b.r.m/assets/support2-BDtTJnTX.png";
+const Support3 = "/b.r.m/assets/support3-B_xwXduH.png";
+const Support4 = "/b.r.m/assets/support4-DQlzTIkf.png";
 function meta$3({}) {
   return [{
     title: "Services - BRM"
@@ -1765,8 +1765,8 @@ function ImageModal({ imageUrl, isOpen, onClose }) {
     }
   );
 }
-const Cert1 = "/assets/crt1-B19S8V_p.jpg";
-const Cert2$1 = "/assets/crt2-D9JPQtG-.jpg";
+const Cert1 = "/b.r.m/assets/crt1-B19S8V_p.jpg";
+const Cert2$1 = "/b.r.m/assets/crt2-D9JPQtG-.jpg";
 function meta$2({}) {
   return [{
     title: "Licenses & Certifications - BRM"
@@ -1901,7 +1901,7 @@ const route6 = /* @__PURE__ */ Object.freeze(/* @__PURE__ */ Object.defineProper
   default: licenses,
   meta: meta$2
 }, Symbol.toStringTag, { value: "Module" }));
-const OceanSailors = "/assets/ocean-sailors-D3ytx_NP.png";
+const OceanSailors = "/b.r.m/assets/ocean-sailors-D3ytx_NP.png";
 function meta$1({}) {
   return [{
     title: "Partners - BRM"
@@ -1995,21 +1995,21 @@ const route7 = /* @__PURE__ */ Object.freeze(/* @__PURE__ */ Object.defineProper
   meta: meta$1,
   partners
 }, Symbol.toStringTag, { value: "Module" }));
-const ShipRepair = "/assets/oc-repair-DckaPKe1.png";
-const ShipSalvage = "/assets/oc-ship-atNnFQ1r.png";
-const ShipSalvage2 = "/assets/oc-ship2-BgT9TrEp.png";
-const PitchPropeller = "/assets/oc-repair2-CXMPw3d2.png";
-const Fab1 = "/assets/oc-fab-D38zS437.png";
-const Fab2 = "/assets/oc-fab-ramp-DdQmI4gz.png";
-const Fab3 = "/assets/oc-fab-ramp2-D9zTbZI2.png";
-const DTI = "/assets/oc-business-perm-CBtwoR4Z.png";
-const Cert2 = "/assets/oc-bus-prov-DYZ8ZV2z.png";
-const Cert3 = "/assets/oc-bus-auth-vzpDwftz.png";
-const Cert4 = "/assets/oc-bus-cor-C5gR9c_t.png";
-const Cert5 = "/assets/oc-bus-perm24-6DqsiWAC.png";
-const Cert6 = "/assets/oc-bus-mayr-C61Wln62.png";
-const Cert7 = "/assets/oc-bus-phlhlt-BU1kwR4N.png";
-const Cert8 = "/assets/oc-bus-sss-1AHkreGU.png";
+const ShipRepair = "/b.r.m/assets/oc-repair-DckaPKe1.png";
+const ShipSalvage = "/b.r.m/assets/oc-ship-atNnFQ1r.png";
+const ShipSalvage2 = "/b.r.m/assets/oc-ship2-BgT9TrEp.png";
+const PitchPropeller = "/b.r.m/assets/oc-repair2-CXMPw3d2.png";
+const Fab1 = "/b.r.m/assets/oc-fab-D38zS437.png";
+const Fab2 = "/b.r.m/assets/oc-fab-ramp-DdQmI4gz.png";
+const Fab3 = "/b.r.m/assets/oc-fab-ramp2-D9zTbZI2.png";
+const DTI = "/b.r.m/assets/oc-business-perm-CBtwoR4Z.png";
+const Cert2 = "/b.r.m/assets/oc-bus-prov-DYZ8ZV2z.png";
+const Cert3 = "/b.r.m/assets/oc-bus-auth-vzpDwftz.png";
+const Cert4 = "/b.r.m/assets/oc-bus-cor-C5gR9c_t.png";
+const Cert5 = "/b.r.m/assets/oc-bus-perm24-6DqsiWAC.png";
+const Cert6 = "/b.r.m/assets/oc-bus-mayr-C61Wln62.png";
+const Cert7 = "/b.r.m/assets/oc-bus-phlhlt-BU1kwR4N.png";
+const Cert8 = "/b.r.m/assets/oc-bus-sss-1AHkreGU.png";
 const partnerServices = {
   "ocean-sailors": [{
     id: "1",
@@ -2455,7 +2455,7 @@ const route8 = /* @__PURE__ */ Object.freeze(/* @__PURE__ */ Object.defineProper
   default: partners_$partnerId,
   meta
 }, Symbol.toStringTag, { value: "Module" }));
-const serverManifest = { "entry": { "module": "/assets/entry.client-dB7KbWoy.js", "imports": ["/assets/chunk-EPOLDU6W-CceRlomA.js"], "css": [] }, "routes": { "root": { "id": "root", "parentId": void 0, "path": "", "index": void 0, "caseSensitive": void 0, "hasAction": false, "hasLoader": false, "hasClientAction": false, "hasClientLoader": false, "hasClientMiddleware": false, "hasErrorBoundary": true, "module": "/assets/root-DDmDNKWm.js", "imports": ["/assets/chunk-EPOLDU6W-CceRlomA.js", "/assets/button-3wjiSMhM.js", "/assets/x-Bb0_G09A.js", "/assets/createLucideIcon-BpRde2Qk.js"], "css": ["/assets/root-CsRKp90z.css"], "clientActionModule": void 0, "clientLoaderModule": void 0, "clientMiddlewareModule": void 0, "hydrateFallbackModule": void 0 }, "routes/home": { "id": "routes/home", "parentId": "root", "path": void 0, "index": true, "caseSensitive": void 0, "hasAction": false, "hasLoader": false, "hasClientAction": false, "hasClientLoader": false, "hasClientMiddleware": false, "hasErrorBoundary": false, "module": "/assets/home-C3WUdsDb.js", "imports": ["/assets/chunk-EPOLDU6W-CceRlomA.js", "/assets/button-3wjiSMhM.js", "/assets/wrench-CKYfv6mp.js", "/assets/building-2-DWuHnnvb.js", "/assets/settings-DgYPz7mY.js", "/assets/map-pin-Bz5S0m7s.js", "/assets/users-iUtxJdR1.js", "/assets/createLucideIcon-BpRde2Qk.js"], "css": [], "clientActionModule": void 0, "clientLoaderModule": void 0, "clientMiddlewareModule": void 0, "hydrateFallbackModule": void 0 }, "routes/about": { "id": "routes/about", "parentId": "root", "path": "about", "index": void 0, "caseSensitive": void 0, "hasAction": false, "hasLoader": false, "hasClientAction": false, "hasClientLoader": false, "hasClientMiddleware": false, "hasErrorBoundary": false, "module": "/assets/about-TNaCVtsJ.js", "imports": ["/assets/chunk-EPOLDU6W-CceRlomA.js", "/assets/wrench-CKYfv6mp.js", "/assets/building-2-DWuHnnvb.js", "/assets/settings-DgYPz7mY.js", "/assets/createLucideIcon-BpRde2Qk.js"], "css": [], "clientActionModule": void 0, "clientLoaderModule": void 0, "clientMiddlewareModule": void 0, "hydrateFallbackModule": void 0 }, "routes/contact": { "id": "routes/contact", "parentId": "root", "path": "contact", "index": void 0, "caseSensitive": void 0, "hasAction": false, "hasLoader": false, "hasClientAction": false, "hasClientLoader": false, "hasClientMiddleware": false, "hasErrorBoundary": false, "module": "/assets/contact-CCWGH-xs.js", "imports": ["/assets/chunk-EPOLDU6W-CceRlomA.js", "/assets/button-3wjiSMhM.js", "/assets/map-pin-Bz5S0m7s.js", "/assets/phone-DhLQsXkH.js", "/assets/send-HnCn2LBJ.js", "/assets/createLucideIcon-BpRde2Qk.js"], "css": [], "clientActionModule": void 0, "clientLoaderModule": void 0, "clientMiddlewareModule": void 0, "hydrateFallbackModule": void 0 }, "routes/apply-now": { "id": "routes/apply-now", "parentId": "root", "path": "apply-now", "index": void 0, "caseSensitive": void 0, "hasAction": false, "hasLoader": false, "hasClientAction": false, "hasClientLoader": false, "hasClientMiddleware": false, "hasErrorBoundary": false, "module": "/assets/apply-now-Bj8yVkg0.js", "imports": ["/assets/chunk-EPOLDU6W-CceRlomA.js", "/assets/button-3wjiSMhM.js", "/assets/file-text-D7lbF8gL.js", "/assets/createLucideIcon-BpRde2Qk.js", "/assets/send-HnCn2LBJ.js"], "css": [], "clientActionModule": void 0, "clientLoaderModule": void 0, "clientMiddlewareModule": void 0, "hydrateFallbackModule": void 0 }, "routes/services": { "id": "routes/services", "parentId": "root", "path": "services", "index": void 0, "caseSensitive": void 0, "hasAction": false, "hasLoader": false, "hasClientAction": false, "hasClientLoader": false, "hasClientMiddleware": false, "hasErrorBoundary": false, "module": "/assets/services-DxIjS22n.js", "imports": ["/assets/chunk-EPOLDU6W-CceRlomA.js", "/assets/service-modal-vXtbbZyk.js", "/assets/wrench-CKYfv6mp.js", "/assets/building-2-DWuHnnvb.js", "/assets/createLucideIcon-BpRde2Qk.js", "/assets/map-pin-Bz5S0m7s.js", "/assets/users-iUtxJdR1.js", "/assets/x-Bb0_G09A.js"], "css": [], "clientActionModule": void 0, "clientLoaderModule": void 0, "clientMiddlewareModule": void 0, "hydrateFallbackModule": void 0 }, "routes/licenses": { "id": "routes/licenses", "parentId": "root", "path": "licenses", "index": void 0, "caseSensitive": void 0, "hasAction": false, "hasLoader": false, "hasClientAction": false, "hasClientLoader": false, "hasClientMiddleware": false, "hasErrorBoundary": false, "module": "/assets/licenses--F7A5bb1.js", "imports": ["/assets/chunk-EPOLDU6W-CceRlomA.js", "/assets/image-modal-g4F3-95m.js", "/assets/x-Bb0_G09A.js", "/assets/createLucideIcon-BpRde2Qk.js"], "css": [], "clientActionModule": void 0, "clientLoaderModule": void 0, "clientMiddlewareModule": void 0, "hydrateFallbackModule": void 0 }, "routes/partners": { "id": "routes/partners", "parentId": "root", "path": "partners", "index": void 0, "caseSensitive": void 0, "hasAction": false, "hasLoader": false, "hasClientAction": false, "hasClientLoader": false, "hasClientMiddleware": false, "hasErrorBoundary": false, "module": "/assets/partners-BTXC9Xut.js", "imports": ["/assets/partners-Bm6QqvS6.js", "/assets/chunk-EPOLDU6W-CceRlomA.js"], "css": [], "clientActionModule": void 0, "clientLoaderModule": void 0, "clientMiddlewareModule": void 0, "hydrateFallbackModule": void 0 }, "routes/partners.$partnerId": { "id": "routes/partners.$partnerId", "parentId": "root", "path": "partners/:partnerId", "index": void 0, "caseSensitive": void 0, "hasAction": false, "hasLoader": false, "hasClientAction": false, "hasClientLoader": false, "hasClientMiddleware": false, "hasErrorBoundary": false, "module": "/assets/partners._partnerId-DWeoKMcS.js", "imports": ["/assets/chunk-EPOLDU6W-CceRlomA.js", "/assets/partners-Bm6QqvS6.js", "/assets/service-modal-vXtbbZyk.js", "/assets/image-modal-g4F3-95m.js", "/assets/file-text-D7lbF8gL.js", "/assets/building-2-DWuHnnvb.js", "/assets/createLucideIcon-BpRde2Qk.js", "/assets/map-pin-Bz5S0m7s.js", "/assets/phone-DhLQsXkH.js", "/assets/x-Bb0_G09A.js"], "css": [], "clientActionModule": void 0, "clientLoaderModule": void 0, "clientMiddlewareModule": void 0, "hydrateFallbackModule": void 0 } }, "url": "/assets/manifest-b0f27af7.js", "version": "b0f27af7", "sri": void 0 };
+const serverManifest = { "entry": { "module": "/b.r.massets/entry.client-dB7KbWoy.js", "imports": ["/b.r.massets/chunk-EPOLDU6W-CceRlomA.js"], "css": [] }, "routes": { "root": { "id": "root", "parentId": void 0, "path": "", "index": void 0, "caseSensitive": void 0, "hasAction": false, "hasLoader": false, "hasClientAction": false, "hasClientLoader": false, "hasClientMiddleware": false, "hasErrorBoundary": true, "module": "/b.r.massets/root-DDmDNKWm.js", "imports": ["/b.r.massets/chunk-EPOLDU6W-CceRlomA.js", "/b.r.massets/button-3wjiSMhM.js", "/b.r.massets/x-Bb0_G09A.js", "/b.r.massets/createLucideIcon-BpRde2Qk.js"], "css": ["/b.r.massets/root-CsRKp90z.css"], "clientActionModule": void 0, "clientLoaderModule": void 0, "clientMiddlewareModule": void 0, "hydrateFallbackModule": void 0 }, "routes/home": { "id": "routes/home", "parentId": "root", "path": void 0, "index": true, "caseSensitive": void 0, "hasAction": false, "hasLoader": false, "hasClientAction": false, "hasClientLoader": false, "hasClientMiddleware": false, "hasErrorBoundary": false, "module": "/b.r.massets/home-Bc_jQP0o.js", "imports": ["/b.r.massets/chunk-EPOLDU6W-CceRlomA.js", "/b.r.massets/button-3wjiSMhM.js", "/b.r.massets/wrench-CKYfv6mp.js", "/b.r.massets/building-2-DWuHnnvb.js", "/b.r.massets/settings-DgYPz7mY.js", "/b.r.massets/map-pin-Bz5S0m7s.js", "/b.r.massets/users-iUtxJdR1.js", "/b.r.massets/createLucideIcon-BpRde2Qk.js"], "css": [], "clientActionModule": void 0, "clientLoaderModule": void 0, "clientMiddlewareModule": void 0, "hydrateFallbackModule": void 0 }, "routes/about": { "id": "routes/about", "parentId": "root", "path": "about", "index": void 0, "caseSensitive": void 0, "hasAction": false, "hasLoader": false, "hasClientAction": false, "hasClientLoader": false, "hasClientMiddleware": false, "hasErrorBoundary": false, "module": "/b.r.massets/about-TNaCVtsJ.js", "imports": ["/b.r.massets/chunk-EPOLDU6W-CceRlomA.js", "/b.r.massets/wrench-CKYfv6mp.js", "/b.r.massets/building-2-DWuHnnvb.js", "/b.r.massets/settings-DgYPz7mY.js", "/b.r.massets/createLucideIcon-BpRde2Qk.js"], "css": [], "clientActionModule": void 0, "clientLoaderModule": void 0, "clientMiddlewareModule": void 0, "hydrateFallbackModule": void 0 }, "routes/contact": { "id": "routes/contact", "parentId": "root", "path": "contact", "index": void 0, "caseSensitive": void 0, "hasAction": false, "hasLoader": false, "hasClientAction": false, "hasClientLoader": false, "hasClientMiddleware": false, "hasErrorBoundary": false, "module": "/b.r.massets/contact-CCWGH-xs.js", "imports": ["/b.r.massets/chunk-EPOLDU6W-CceRlomA.js", "/b.r.massets/button-3wjiSMhM.js", "/b.r.massets/map-pin-Bz5S0m7s.js", "/b.r.massets/phone-DhLQsXkH.js", "/b.r.massets/send-HnCn2LBJ.js", "/b.r.massets/createLucideIcon-BpRde2Qk.js"], "css": [], "clientActionModule": void 0, "clientLoaderModule": void 0, "clientMiddlewareModule": void 0, "hydrateFallbackModule": void 0 }, "routes/apply-now": { "id": "routes/apply-now", "parentId": "root", "path": "apply-now", "index": void 0, "caseSensitive": void 0, "hasAction": false, "hasLoader": false, "hasClientAction": false, "hasClientLoader": false, "hasClientMiddleware": false, "hasErrorBoundary": false, "module": "/b.r.massets/apply-now-Bj8yVkg0.js", "imports": ["/b.r.massets/chunk-EPOLDU6W-CceRlomA.js", "/b.r.massets/button-3wjiSMhM.js", "/b.r.massets/file-text-D7lbF8gL.js", "/b.r.massets/createLucideIcon-BpRde2Qk.js", "/b.r.massets/send-HnCn2LBJ.js"], "css": [], "clientActionModule": void 0, "clientLoaderModule": void 0, "clientMiddlewareModule": void 0, "hydrateFallbackModule": void 0 }, "routes/services": { "id": "routes/services", "parentId": "root", "path": "services", "index": void 0, "caseSensitive": void 0, "hasAction": false, "hasLoader": false, "hasClientAction": false, "hasClientLoader": false, "hasClientMiddleware": false, "hasErrorBoundary": false, "module": "/b.r.massets/services-CnRyhm0O.js", "imports": ["/b.r.massets/chunk-EPOLDU6W-CceRlomA.js", "/b.r.massets/service-modal-vXtbbZyk.js", "/b.r.massets/wrench-CKYfv6mp.js", "/b.r.massets/building-2-DWuHnnvb.js", "/b.r.massets/createLucideIcon-BpRde2Qk.js", "/b.r.massets/map-pin-Bz5S0m7s.js", "/b.r.massets/users-iUtxJdR1.js", "/b.r.massets/x-Bb0_G09A.js"], "css": [], "clientActionModule": void 0, "clientLoaderModule": void 0, "clientMiddlewareModule": void 0, "hydrateFallbackModule": void 0 }, "routes/licenses": { "id": "routes/licenses", "parentId": "root", "path": "licenses", "index": void 0, "caseSensitive": void 0, "hasAction": false, "hasLoader": false, "hasClientAction": false, "hasClientLoader": false, "hasClientMiddleware": false, "hasErrorBoundary": false, "module": "/b.r.massets/licenses-BSvXocNo.js", "imports": ["/b.r.massets/chunk-EPOLDU6W-CceRlomA.js", "/b.r.massets/image-modal-g4F3-95m.js", "/b.r.massets/x-Bb0_G09A.js", "/b.r.massets/createLucideIcon-BpRde2Qk.js"], "css": [], "clientActionModule": void 0, "clientLoaderModule": void 0, "clientMiddlewareModule": void 0, "hydrateFallbackModule": void 0 }, "routes/partners": { "id": "routes/partners", "parentId": "root", "path": "partners", "index": void 0, "caseSensitive": void 0, "hasAction": false, "hasLoader": false, "hasClientAction": false, "hasClientLoader": false, "hasClientMiddleware": false, "hasErrorBoundary": false, "module": "/b.r.massets/partners-DjYNJpsQ.js", "imports": ["/b.r.massets/partners-DkkLnt2F.js", "/b.r.massets/chunk-EPOLDU6W-CceRlomA.js"], "css": [], "clientActionModule": void 0, "clientLoaderModule": void 0, "clientMiddlewareModule": void 0, "hydrateFallbackModule": void 0 }, "routes/partners.$partnerId": { "id": "routes/partners.$partnerId", "parentId": "root", "path": "partners/:partnerId", "index": void 0, "caseSensitive": void 0, "hasAction": false, "hasLoader": false, "hasClientAction": false, "hasClientLoader": false, "hasClientMiddleware": false, "hasErrorBoundary": false, "module": "/b.r.massets/partners._partnerId-IzdguwFr.js", "imports": ["/b.r.massets/chunk-EPOLDU6W-CceRlomA.js", "/b.r.massets/partners-DkkLnt2F.js", "/b.r.massets/service-modal-vXtbbZyk.js", "/b.r.massets/image-modal-g4F3-95m.js", "/b.r.massets/file-text-D7lbF8gL.js", "/b.r.massets/building-2-DWuHnnvb.js", "/b.r.massets/createLucideIcon-BpRde2Qk.js", "/b.r.massets/map-pin-Bz5S0m7s.js", "/b.r.massets/phone-DhLQsXkH.js", "/b.r.massets/x-Bb0_G09A.js"], "css": [], "clientActionModule": void 0, "clientLoaderModule": void 0, "clientMiddlewareModule": void 0, "hydrateFallbackModule": void 0 } }, "url": "/b.r.massets/manifest-e2849cd7.js", "version": "e2849cd7", "sri": void 0 };
 const assetsBuildDirectory = "build/client";
 const basename = "/";
 const future = { "unstable_optimizeDeps": false, "unstable_subResourceIntegrity": false, "unstable_trailingSlashAwareDataRequests": false, "v8_middleware": false, "v8_splitRouteModules": false, "v8_viteEnvironmentApi": false };
@@ -2463,7 +2463,7 @@ const ssr = true;
 const isSpaMode = false;
 const prerender = [];
 const routeDiscovery = { "mode": "lazy", "manifestPath": "/__manifest" };
-const publicPath = "/";
+const publicPath = "/b.r.m";
 const entry = { module: entryServer };
 const routes = {
   "root": {
